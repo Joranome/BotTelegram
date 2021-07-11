@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "hmtai": "^2.0.7",
+    "telegraf": "^4.4.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
